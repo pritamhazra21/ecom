@@ -75,3 +75,12 @@ mainly 3 te catagory economical, technological, market
 + customer product compare korte pare valo 
 + overall onek besi option thake customer er kache
 
+## Laws
+
+1. Information Technology Act, 2000 (IT Act): The IT Act is the primary legislation governing electronic transactions and digital signatures in India. It provides a legal framework for e-commerce activities, including the recognition of electronic contracts and the liability of intermediaries.
+2. Consumer Protection Act, 2019: The Consumer Protection Act, 2019 governs consumer rights and protection in India, including e-commerce transactions. It establishes a regulatory authority, the Central Consumer Protection Authority (CCPA), to enforce consumer rights and address grievances related to e-commerce.
+3. Foreign Exchange Management (Non-Debt Instruments) Rules, 2019: These rules, issued under the Foreign Exchange Management Act, 1999, regulate foreign direct investment (FDI) in e-commerce companies operating in India. The rules impose certain restrictions on e-commerce marketplaces with FDI, such as prohibiting them from influencing the prices of products sold on their platforms.
+4. Goods and Services Tax (GST) Act, 2017: The GST Act is a comprehensive indirect tax law in India. It applies to e-commerce operators and mandates the collection and remittance of GST on the supply of goods or services made through their platforms.
+Reserve Bank of India (RBI) Guidelines: The RBI has issued guidelines that govern various aspects of e-commerce transactions, including electronic payment methods, data security, and customer protection. These guidelines ensure the security and integrity of digital transactions.
+5. Legal Metrology Act, 2009: The Legal Metrology Act regulates the standards of weights and measures in India. It includes provisions related to e-commerce, such as mandatory disclosure of product information, including price, dimensions, and country of origin, on e-commerce platforms.
+6. Competition Act, 2002: The Competition Act regulates anti-competitive practices and prohibits unfair trade practices, including in the e-commerce sector. It prevents abuse of dominant market positions and promotes fair competition.
