@@ -56,4 +56,20 @@
 ## Driving force
 
 mainly 3 te catagory economical, technological, market
+#### economical
++ overall commuinication e khorcha kom
++ website maintain kora physical store er theke kom khorcha
++ human intervation kom to ekhaneo khorcha kom
++ advertise eo khorcha kpm
++ consumer power
+
+#### Technological
++ advanced technology commuinication fast kore diyeche
++ joto din jachhe toto secure hochhe to ekta confidence asche online payment er
++ over all technology r ekta flow boiche all over the world 
+
+#### Market 
++ ecom use kore any one can reach internation level. emni store hole local er modhyei atke thakte hoto
++ customer product compare korte pare valo 
++ overall onek besi option thake customer er kache
 
