@@ -40,7 +40,7 @@
 + needs of customer
 + needs of suppliers
 
-## Features f ecom
+## Features of ecom
 
 + non cash payment
 + 24*7 service
@@ -48,4 +48,12 @@
 + support
 + automated inventory management
 + commuinication improvement
+
+## Difference between ecom and tradition
+
+![image](https://github.com/pritamhazra21/ecom/assets/75198912/6f48bf35-e1e3-4764-8ca1-db3670134ec9)
+
+## Driving force
+
+mainly 3 te catagory economical, technological, market
 
