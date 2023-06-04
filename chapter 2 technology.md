@@ -64,7 +64,7 @@ soja kothay ecom in mobile ja ja kaj ecom e hoy seguloi just using mobile
 ## Benifits of mobile com
 
 + convinience
-+ accebility
++ accessibility
 + personalization
 + seamless intregation
 + enhanced engagement
