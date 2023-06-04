@@ -77,3 +77,4 @@ soja kothay ecom in mobile ja ja kaj ecom e hoy seguloi just using mobile
 + utilise AR mane augmented reality (3d model e dekhano ar ki valo bujhte parbe customer jemo lenskart korche)
 
 
+
